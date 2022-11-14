@@ -1,4 +1,5 @@
 # RE: Dirt cheap second-hand broken DVR/dashcam
+_Notice: The schematic.png is in very high resolution, you may need to download it._
 
 <table><tr>
   <td><img src="pcb_top.jpg" width="200" alt="PCB top side" /></td>
