@@ -16,11 +16,13 @@ _Notice: The `schematic.png` is in high resolution (11021x3986). You may need to
   <td><img src="pcb_back_bat.JPG" width="200" alt="PCB bottom side with the battery" /></td>
   <td><img src="pcb_back.JPG" width="200" alt="PCB bottom side" /></td>
   <td><img src="pcb_top.JPG" width="200" alt="PCB top side" /></td>
+  <td><img src="keypad.JPG" width="200" alt="Keypad" /></td>
   
   </tr><tr>
   <td align="middle"><i>PCB with the battery taped on</i></td>
   <td align="middle"><i>Back of the PCB</i></td>
   <td align="middle"><i>Top of the PCB</i></td>
+  <td align="middle"><i>Keypad (bonus)</i></td>
   
 </tr></table>
 
